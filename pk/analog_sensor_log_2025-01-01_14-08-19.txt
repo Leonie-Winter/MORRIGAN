@@ -1,0 +1,192 @@
+[2025-01-01 14:08:19] Analog Value 0: 95, Voltage 0: 0.007625
+[2025-01-01 14:08:19] Analog Value 1: 32767, Voltage 1: 2.0479375
+[2025-01-01 14:08:19] Temperature: 7.44C, 45.39F
+
+[2025-01-01 14:08:21] Analog Value 0: 95, Voltage 0: 0.0076875
+[2025-01-01 14:08:21] Analog Value 1: 32767, Voltage 1: 2.0479375
+[2025-01-01 14:08:21] Temperature: 7.44C, 45.39F
+
+[2025-01-01 14:08:22] Analog Value 0: 96, Voltage 0: 0.0076875
+[2025-01-01 14:08:22] Analog Value 1: 32767, Voltage 1: 2.0479375
+[2025-01-01 14:08:22] Temperature: 7.44C, 45.39F
+
+[2025-01-01 14:08:24] Analog Value 0: 95, Voltage 0: 0.0075625
+[2025-01-01 14:08:24] Analog Value 1: 32767, Voltage 1: 2.0479375
+[2025-01-01 14:08:24] Temperature: 7.38C, 45.27F
+
+[2025-01-01 14:08:26] Analog Value 0: 96, Voltage 0: 0.0075625
+[2025-01-01 14:08:26] Analog Value 1: 32767, Voltage 1: 2.0479375
+[2025-01-01 14:08:26] Temperature: 7.38C, 45.27F
+
+[2025-01-01 14:08:28] Analog Value 0: 96, Voltage 0: 0.0075625
+[2025-01-01 14:08:28] Analog Value 1: 32767, Voltage 1: 2.0479375
+[2025-01-01 14:08:28] Temperature: 7.38C, 45.27F
+
+[2025-01-01 14:08:30] Analog Value 0: 95, Voltage 0: 0.007625
+[2025-01-01 14:08:30] Analog Value 1: 32767, Voltage 1: 2.0479375
+[2025-01-01 14:08:30] Temperature: 7.38C, 45.27F
+
+[2025-01-01 14:08:32] Analog Value 0: 96, Voltage 0: 0.0075625
+[2025-01-01 14:08:32] Analog Value 1: 32767, Voltage 1: 2.0479375
+[2025-01-01 14:08:32] Temperature: 7.44C, 45.39F
+
+[2025-01-01 14:08:34] Analog Value 0: 96, Voltage 0: 0.007625
+[2025-01-01 14:08:34] Analog Value 1: 32767, Voltage 1: 2.0479375
+[2025-01-01 14:08:34] Temperature: 7.38C, 45.27F
+
+[2025-01-01 14:08:35] Analog Value 0: 574, Voltage 0: 0.03675
+[2025-01-01 14:08:35] Analog Value 1: 32767, Voltage 1: 2.0479375
+[2025-01-01 14:08:35] Temperature: 6.69C, 44.04F
+
+[2025-01-01 14:08:37] Analog Value 0: 10040, Voltage 0: 0.625875
+[2025-01-01 14:08:37] Analog Value 1: 32767, Voltage 1: 2.0479375
+[2025-01-01 14:08:37] Temperature: 4.75C, 40.55F
+
+[2025-01-01 14:08:39] Analog Value 0: 9718, Voltage 0: 0.607875
+[2025-01-01 14:08:39] Analog Value 1: 32767, Voltage 1: 2.0479375
+[2025-01-01 14:08:39] Temperature: 3.62C, 38.52F
+
+[2025-01-01 14:08:41] Analog Value 0: 10150, Voltage 0: 0.633125
+[2025-01-01 14:08:41] Analog Value 1: 32767, Voltage 1: 2.0479375
+[2025-01-01 14:08:41] Temperature: 3.00C, 37.40F
+
+[2025-01-01 14:08:43] Analog Value 0: 10216, Voltage 0: 0.6385000000000001
+[2025-01-01 14:08:43] Analog Value 1: 32767, Voltage 1: 2.0479375
+[2025-01-01 14:08:43] Temperature: 2.75C, 36.95F
+
+[2025-01-01 14:08:45] Analog Value 0: 9906, Voltage 0: 0.619375
+[2025-01-01 14:08:45] Analog Value 1: 32767, Voltage 1: 2.0479375
+[2025-01-01 14:08:45] Temperature: 2.38C, 36.27F
+
+[2025-01-01 14:08:47] Analog Value 0: 9911, Voltage 0: 0.6198125
+[2025-01-01 14:08:47] Analog Value 1: 32767, Voltage 1: 2.0479375
+[2025-01-01 14:08:47] Temperature: 2.25C, 36.05F
+
+[2025-01-01 14:08:48] Analog Value 0: 9905, Voltage 0: 0.61925
+[2025-01-01 14:08:48] Analog Value 1: 32767, Voltage 1: 2.0479375
+[2025-01-01 14:08:48] Temperature: 2.12C, 35.83F
+
+[2025-01-01 14:08:50] Analog Value 0: 10005, Voltage 0: 0.625375
+[2025-01-01 14:08:50] Analog Value 1: 32767, Voltage 1: 2.0479375
+[2025-01-01 14:08:50] Temperature: 2.12C, 35.83F
+
+[2025-01-01 14:08:52] Analog Value 0: 10160, Voltage 0: 0.6351875
+[2025-01-01 14:08:52] Analog Value 1: 32767, Voltage 1: 2.0479375
+[2025-01-01 14:08:52] Temperature: 2.12C, 35.83F
+
+[2025-01-01 14:08:54] Analog Value 0: 10131, Voltage 0: 0.6334375
+[2025-01-01 14:08:54] Analog Value 1: 32767, Voltage 1: 2.0479375
+[2025-01-01 14:08:54] Temperature: 2.19C, 35.94F
+
+[2025-01-01 14:08:56] Analog Value 0: 10150, Voltage 0: 0.6345000000000001
+[2025-01-01 14:08:56] Analog Value 1: 32767, Voltage 1: 2.0479375
+[2025-01-01 14:08:56] Temperature: 2.31C, 36.16F
+
+[2025-01-01 14:08:58] Analog Value 0: 10035, Voltage 0: 0.6274375
+[2025-01-01 14:08:58] Analog Value 1: 32767, Voltage 1: 2.0479375
+[2025-01-01 14:08:58] Temperature: 2.44C, 36.39F
+
+[2025-01-01 14:09:00] Analog Value 0: 10038, Voltage 0: 0.6270625
+[2025-01-01 14:09:00] Analog Value 1: 32767, Voltage 1: 2.0479375
+[2025-01-01 14:09:00] Temperature: 2.50C, 36.50F
+
+[2025-01-01 14:09:01] Analog Value 0: 9971, Voltage 0: 0.6233125
+[2025-01-01 14:09:01] Analog Value 1: 32767, Voltage 1: 2.0479375
+[2025-01-01 14:09:01] Temperature: 2.50C, 36.50F
+
+[2025-01-01 14:09:03] Analog Value 0: 10121, Voltage 0: 0.632625
+[2025-01-01 14:09:03] Analog Value 1: 32767, Voltage 1: 2.0479375
+[2025-01-01 14:09:03] Temperature: 2.50C, 36.50F
+
+[2025-01-01 14:09:05] Analog Value 0: 10021, Voltage 0: 0.6264375
+[2025-01-01 14:09:05] Analog Value 1: 32767, Voltage 1: 2.0479375
+[2025-01-01 14:09:05] Temperature: 2.50C, 36.50F
+
+[2025-01-01 14:09:07] Analog Value 0: 9934, Voltage 0: 0.621625
+[2025-01-01 14:09:07] Analog Value 1: 32767, Voltage 1: 2.0479375
+[2025-01-01 14:09:07] Temperature: 2.50C, 36.50F
+
+[2025-01-01 14:09:09] Analog Value 0: 9958, Voltage 0: 0.6226875000000001
+[2025-01-01 14:09:09] Analog Value 1: 32767, Voltage 1: 2.0479375
+[2025-01-01 14:09:09] Temperature: 2.56C, 36.61F
+
+[2025-01-01 14:09:11] Analog Value 0: 9970, Voltage 0: 0.6233125
+[2025-01-01 14:09:11] Analog Value 1: 32767, Voltage 1: 2.0479375
+[2025-01-01 14:09:11] Temperature: 2.56C, 36.61F
+
+[2025-01-01 14:09:13] Analog Value 0: 9945, Voltage 0: 0.6215625
+[2025-01-01 14:09:13] Analog Value 1: 32767, Voltage 1: 2.0479375
+[2025-01-01 14:09:13] Temperature: 2.56C, 36.61F
+
+[2025-01-01 14:09:14] Analog Value 0: 9896, Voltage 0: 0.6184375
+[2025-01-01 14:09:14] Analog Value 1: 32767, Voltage 1: 2.0479375
+[2025-01-01 14:09:14] Temperature: 2.62C, 36.73F
+
+[2025-01-01 14:09:16] Analog Value 0: 9863, Voltage 0: 0.616625
+[2025-01-01 14:09:16] Analog Value 1: 32767, Voltage 1: 2.0479375
+[2025-01-01 14:09:16] Temperature: 2.69C, 36.84F
+
+[2025-01-01 14:09:18] Analog Value 0: 10148, Voltage 0: 0.63425
+[2025-01-01 14:09:18] Analog Value 1: 32767, Voltage 1: 2.0479375
+[2025-01-01 14:09:18] Temperature: 2.69C, 36.84F
+
+[2025-01-01 14:09:20] Analog Value 0: 10175, Voltage 0: 0.6359375
+[2025-01-01 14:09:20] Analog Value 1: 32767, Voltage 1: 2.0479375
+[2025-01-01 14:09:20] Temperature: 2.62C, 36.73F
+
+[2025-01-01 14:09:22] Analog Value 0: 10061, Voltage 0: 0.6289375
+[2025-01-01 14:09:22] Analog Value 1: 32767, Voltage 1: 2.0479375
+[2025-01-01 14:09:22] Temperature: 2.56C, 36.61F
+
+[2025-01-01 14:09:24] Analog Value 0: 9998, Voltage 0: 0.625125
+[2025-01-01 14:09:24] Analog Value 1: 32767, Voltage 1: 2.0479375
+[2025-01-01 14:09:24] Temperature: 2.50C, 36.50F
+
+[2025-01-01 14:09:26] Analog Value 0: 10036, Voltage 0: 0.6275625
+[2025-01-01 14:09:26] Analog Value 1: 32767, Voltage 1: 2.0479375
+[2025-01-01 14:09:26] Temperature: 2.62C, 36.73F
+
+[2025-01-01 14:09:27] Analog Value 0: 10077, Voltage 0: 0.63
+[2025-01-01 14:09:27] Analog Value 1: 32767, Voltage 1: 2.0479375
+[2025-01-01 14:09:27] Temperature: 2.81C, 37.06F
+
+[2025-01-01 14:09:29] Analog Value 0: 10088, Voltage 0: 0.630625
+[2025-01-01 14:09:29] Analog Value 1: 32767, Voltage 1: 2.0479375
+[2025-01-01 14:09:29] Temperature: 2.94C, 37.29F
+
+[2025-01-01 14:09:31] Analog Value 0: 10125, Voltage 0: 0.6330625
+[2025-01-01 14:09:31] Analog Value 1: 32767, Voltage 1: 2.0479375
+[2025-01-01 14:09:31] Temperature: 3.12C, 37.62F
+
+[2025-01-01 14:09:33] Analog Value 0: 10055, Voltage 0: 0.6285000000000001
+[2025-01-01 14:09:33] Analog Value 1: 32767, Voltage 1: 2.0479375
+[2025-01-01 14:09:33] Temperature: 3.12C, 37.62F
+
+[2025-01-01 14:09:35] Analog Value 0: 1023, Voltage 0: 0.0655
+[2025-01-01 14:09:35] Analog Value 1: 32767, Voltage 1: 2.0479375
+[2025-01-01 14:09:35] Temperature: 3.06C, 37.51F
+
+[2025-01-01 14:09:37] Analog Value 0: 1135, Voltage 0: 0.07200000000000001
+[2025-01-01 14:09:37] Analog Value 1: 32767, Voltage 1: 2.0479375
+[2025-01-01 14:09:37] Temperature: 2.88C, 37.17F
+
+[2025-01-01 14:09:39] Analog Value 0: 1178, Voltage 0: 0.075
+[2025-01-01 14:09:39] Analog Value 1: 32767, Voltage 1: 2.0479375
+[2025-01-01 14:09:39] Temperature: 2.88C, 37.17F
+
+[2025-01-01 14:09:40] Analog Value 0: 1260, Voltage 0: 0.08025
+[2025-01-01 14:09:40] Analog Value 1: 32767, Voltage 1: 2.0479375
+[2025-01-01 14:09:40] Temperature: 3.00C, 37.40F
+
+[2025-01-01 14:09:42] Analog Value 0: 1295, Voltage 0: 0.082375
+[2025-01-01 14:09:42] Analog Value 1: 32767, Voltage 1: 2.0479375
+[2025-01-01 14:09:42] Temperature: 3.00C, 37.40F
+
+[2025-01-01 14:09:44] Analog Value 0: 1258, Voltage 0: 0.0801875
+[2025-01-01 14:09:44] Analog Value 1: 32767, Voltage 1: 2.0479375
+[2025-01-01 14:09:44] Temperature: 3.06C, 37.51F
+
+[2025-01-01 14:09:46] Analog Value 0: 1283, Voltage 0: 0.08175
+[2025-01-01 14:09:46] Analog Value 1: 32767, Voltage 1: 2.0479375
+[2025-01-01 14:09:46] Temperature: 3.12C, 37.62F
+
