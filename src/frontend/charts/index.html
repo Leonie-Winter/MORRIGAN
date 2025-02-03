@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="de">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="styles.css" />
+    <meta name="author" content="Max Mendgen">
+    <meta name="version" content="0.1">
+    <title>Displaying JSON data in Chart.js</title>
+  </head>
+  <body>
+    <!-- Navigation -->
+    <div class="nav">
+      <button id="viewAllPoints">View all points</button>
+      <button id="viewSection">View section</button>
+    </div>
+    
+    <!-- Charts -->
+    <div class="chart">
+      <canvas id="chartTemp"></canvas>
+      <canvas id="chartPH"></canvas>
+      <canvas id="chartTDS"></canvas>
+      <canvas id="chartDO"></canvas>
+      <canvas id="chartTurb"></canvas>
+    </div>
+    
+    <!-- JavaScripts -->
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <script src="script.js"></script>
+  </body>
+</html>

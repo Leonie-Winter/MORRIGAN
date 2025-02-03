@@ -1,0 +1,202 @@
+[
+    {
+        "milliseconds": 0.0,
+        "PH": 7.14
+    },
+    {
+        "milliseconds": 16.67,
+        "temperature": 19.32
+    },
+    {
+        "milliseconds": 33.34,
+        "TDS": 348.12
+    },
+    {
+        "milliseconds": 50.01,
+        "TDS": 231.64
+    },
+    {
+        "milliseconds": 66.68,
+        "TDS": 384.76
+    },
+    {
+        "milliseconds": 83.35,
+        "temperature": 14.7
+    },
+    {
+        "milliseconds": 100.02,
+        "temperature": 25.32
+    },
+    {
+        "milliseconds": 116.69,
+        "PH": 8.41
+    },
+    {
+        "milliseconds": 133.36,
+        "turbidity": 2.39
+    },
+    {
+        "milliseconds": 150.03,
+        "PH": 7.75
+    },
+    {
+        "milliseconds": 166.7,
+        "PH": 8.0
+    },
+    {
+        "milliseconds": 183.37,
+        "DO": 11.82
+    },
+    {
+        "milliseconds": 200.04,
+        "turbidity": 1.25
+    },
+    {
+        "milliseconds": 216.71,
+        "DO": 13.5
+    },
+    {
+        "milliseconds": 233.38,
+        "PH": 8.32
+    },
+    {
+        "milliseconds": 250.05,
+        "TDS": 102.47
+    },
+    {
+        "milliseconds": 266.72,
+        "TDS": 143.58
+    },
+    {
+        "milliseconds": 283.39,
+        "TDS": 401.35
+    },
+    {
+        "milliseconds": 300.06,
+        "temperature": 35.39
+    },
+    {
+        "milliseconds": 316.73,
+        "PH": 8.11
+    },
+    {
+        "milliseconds": 333.4,
+        "PH": 7.92
+    },
+    {
+        "milliseconds": 350.07,
+        "DO": 13.74
+    },
+    {
+        "milliseconds": 366.74,
+        "PH": 7.09
+    },
+    {
+        "milliseconds": 383.41,
+        "DO": 9.87
+    },
+    {
+        "milliseconds": 400.08,
+        "TDS": 104.07
+    },
+    {
+        "milliseconds": 416.75,
+        "turbidity": 2.54
+    },
+    {
+        "milliseconds": 433.42,
+        "turbidity": 4.03
+    },
+    {
+        "milliseconds": 450.09,
+        "DO": 11.74
+    },
+    {
+        "milliseconds": 466.76,
+        "DO": 13.55
+    },
+    {
+        "milliseconds": 483.43,
+        "PH": 7.15
+    },
+    {
+        "milliseconds": 500.1,
+        "turbidity": 0.87
+    },
+    {
+        "milliseconds": 516.77,
+        "TDS": 217.37
+    },
+    {
+        "milliseconds": 533.44,
+        "TDS": 407.43
+    },
+    {
+        "milliseconds": 550.11,
+        "DO": 9.55
+    },
+    {
+        "milliseconds": 566.78,
+        "DO": 10.85
+    },
+    {
+        "milliseconds": 583.45,
+        "temperature": 22.0
+    },
+    {
+        "milliseconds": 600.12,
+        "TDS": 156.14
+    },
+    {
+        "milliseconds": 616.79,
+        "temperature": 32.08
+    },
+    {
+        "milliseconds": 633.46,
+        "DO": 8.35
+    },
+    {
+        "milliseconds": 650.13,
+        "PH": 8.31
+    },
+    {
+        "milliseconds": 666.8,
+        "PH": 6.53
+    },
+    {
+        "milliseconds": 683.47,
+        "TDS": 429.95
+    },
+    {
+        "milliseconds": 700.14,
+        "PH": 7.9
+    },
+    {
+        "milliseconds": 716.81,
+        "PH": 7.19
+    },
+    {
+        "milliseconds": 733.48,
+        "DO": 7.58
+    },
+    {
+        "milliseconds": 750.15,
+        "DO": 11.35
+    },
+    {
+        "milliseconds": 766.82,
+        "temperature": 17.09
+    },
+    {
+        "milliseconds": 783.49,
+        "turbidity": 1.44
+    },
+    {
+        "milliseconds": 800.16,
+        "temperature": 14.53
+    },
+    {
+        "milliseconds": 816.83,
+        "PH": 7.46
+    }
+]

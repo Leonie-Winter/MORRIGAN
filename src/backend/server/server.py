@@ -6,17 +6,18 @@ import os
 app = Flask(__name__, static_folder="static")
 CORS(app)
 
-# Serve the frontend
+# Get the full absolute path to somefile.py
+SCRIPT_PATH = os.path.abspath("somefile.py")
+
 @app.route('/')
 def serve_index():
     return send_from_directory("static", "index.html")
 
-# Run the Python script when the button is pressed
 @app.route('/run-script', methods=['GET'])
 def run_script():
     try:
-        # Adjust command for Windows
-        result = subprocess.run(["python", "somefile.py"], capture_output=True, text=True, shell=True)
+        # Run somefile.py
+        result = subprocess.run(["python", SCRIPT_PATH], capture_output=True, text=True, shell=True)
         return jsonify({"output": result.stdout, "error": result.stderr})
     except Exception as e:
         return jsonify({"error": str(e)}), 500
