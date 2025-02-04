@@ -1,0 +1,64 @@
+Analog Value 0: 1394, Voltage 0: 0.0885625
+Scaled Analog Value 1: 27351.0, Voltage 1: 1.7095625
+Temperature: 13.88C, 56.98F
+
+Analog Value 0: 1392, Voltage 0: 0.0884375
+Scaled Analog Value 1: 27352.0, Voltage 1: 1.7095625
+Temperature: 13.88C, 56.98F
+
+Analog Value 0: 1391, Voltage 0: 0.0883125
+Scaled Analog Value 1: 27345.0, Voltage 1: 1.7090625
+Temperature: 13.88C, 56.98F
+
+Analog Value 0: 1389, Voltage 0: 0.0880625
+Scaled Analog Value 1: 27345.0, Voltage 1: 1.709125
+Temperature: 13.88C, 56.98F
+
+Analog Value 0: 1387, Voltage 0: 0.0879375
+Scaled Analog Value 1: 27347.0, Voltage 1: 1.7089375
+Temperature: 13.88C, 56.98F
+
+Analog Value 0: 1385, Voltage 0: 0.08787500000000001
+Scaled Analog Value 1: 27343.0, Voltage 1: 1.709
+Temperature: 13.88C, 56.98F
+
+Analog Value 0: 1384, Voltage 0: 0.0878125
+Scaled Analog Value 1: 27348.0, Voltage 1: 1.7090625
+Temperature: 13.81C, 56.86F
+
+Analog Value 0: 1383, Voltage 0: 0.0876875
+Scaled Analog Value 1: 27345.0, Voltage 1: 1.709
+Temperature: 13.88C, 56.98F
+
+Analog Value 0: 1381, Voltage 0: 0.08762500000000001
+Scaled Analog Value 1: 27341.0, Voltage 1: 1.7090625
+Temperature: 13.88C, 56.98F
+
+Analog Value 0: 1380, Voltage 0: 0.0875625
+Scaled Analog Value 1: 27342.0, Voltage 1: 1.7088750000000001
+Temperature: 13.81C, 56.86F
+
+Analog Value 0: 1378, Voltage 0: 0.08737500000000001
+Scaled Analog Value 1: 27336.0, Voltage 1: 1.7088750000000001
+Temperature: 13.88C, 56.98F
+
+Analog Value 0: 1376, Voltage 0: 0.0873125
+Scaled Analog Value 1: 27343.0, Voltage 1: 1.7089375
+Temperature: 13.88C, 56.98F
+
+Analog Value 0: 1375, Voltage 0: 0.08725000000000001
+Scaled Analog Value 1: 27339.0, Voltage 1: 1.7088750000000001
+Temperature: 13.88C, 56.98F
+
+Analog Value 0: 1373, Voltage 0: 0.08712500000000001
+Scaled Analog Value 1: 27344.0, Voltage 1: 1.7089375
+Temperature: 13.88C, 56.98F
+
+Analog Value 0: 1373, Voltage 0: 0.0870625
+Scaled Analog Value 1: 27343.0, Voltage 1: 1.709125
+Temperature: 13.88C, 56.98F
+
+Analog Value 0: 1372, Voltage 0: 0.0870625
+Scaled Analog Value 1: 27347.0, Voltage 1: 1.709125
+Temperature: 13.88C, 56.98F
+
