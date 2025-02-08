@@ -9,6 +9,20 @@
     <title>Displaying JSON data in Chart.js</title>
   </head>
   <body>
+    <h1>Click the button to run the script</h1>
+    <button onclick="runScript()">Run Script</button>
+    <p id="output"></p>
+
+    <script>
+        function runScript() {
+            fetch('http://localhost:5000/run-script') // Ensure correct backend URL
+                .then(response => response.json())
+                .then(data => {
+                    document.getElementById("output").innerText = data.output || data.error;
+                })
+                .catch(error => console.error('Error:', error));
+        }
+    </script>
     <!-- Navigation -->
     <div class="nav">
       <button id="viewAllPoints">View all points</button>
@@ -27,5 +41,6 @@
     <!-- JavaScripts -->
     <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
     <script src="script.js"></script>
+    
   </body>
 </html>

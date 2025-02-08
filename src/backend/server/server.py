@@ -6,19 +6,18 @@ import os
 app = Flask(__name__, static_folder="static")
 CORS(app)
 
-# Get the full absolute path to somefile.py
-SCRIPT_PATH = os.path.abspath("somefile.py")
+
+SCRIPT_PATH = os.path.join(os.path.dirname(__file__), "main.py")
 
 @app.route('/')
 def serve_index():
-    return send_from_directory("static", "index.html")
+    return send_from_directory(app.static_folder, "index.html")
 
 @app.route('/run-script', methods=['GET'])
 def run_script():
     try:
-        # Run somefile.py
         result = subprocess.run(["python", SCRIPT_PATH], capture_output=True, text=True, shell=True)
-        return jsonify({"output": result.stdout, "error": result.stderr})
+        return jsonify({"output": result.stdout.strip(), "error": result.stderr.strip()})
     except Exception as e:
         return jsonify({"error": str(e)}), 500
 
