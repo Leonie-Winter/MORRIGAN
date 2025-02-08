@@ -9,6 +9,9 @@ import busio
 import adafruit_ads1x15.ads1115 as ADS
 from adafruit_ads1x15.analog_in import AnalogIn
 import os
+import json
+import time
+from datetime import datetime
 i2c = busio.I2C(board.SCL, board.SDA)
 ads = ADS.ADS1115(i2c, 0x08)
 
@@ -31,16 +34,39 @@ def switch_sensor(sensor):
     
     return chan
 
+start_time = None 
+log = []
 
-
-
-
-
-
-
-
-
-
+def log_data(sensor, value):
+    global start_time
+    
+    if start_time is None:
+        start_time = time.time()
+    
+    elapsed_seconds = int(time.time() - start_time)
+    
+    timestamp = datetime.now().isoformat()  
+    
+    sensor_data = {
+        "seconds": elapsed_seconds, 
+        "timestamp": timestamp  
+    }
+    
+    if sensor == "temperature":
+        sensor_data["temperature"] = value
+    elif sensor == "PH":
+        sensor_data["PH"] = value
+    elif sensor == "TDS":
+        sensor_data["TDS"] = value
+    elif sensor == "DO":
+        sensor_data["DO"] = value
+    elif sensor == "turbidity":
+        sensor_data["turbidity"] = value
+    
+    log.append(sensor_data)
+    
+    with open("data.json", "w") as f:
+        json.dump(log, f, indent=4)
 
 
 while True:
