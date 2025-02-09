@@ -17,16 +17,16 @@ ads = ADS.ADS1115(i2c, 0x08)
 
 temperature = read_temp()
 def switch_sensor(sensor):
-    if sensor == ph:
+    if sensor == "ph":
         ads.gain = 1
         chan = AnalogIn(ads, ADS.P3)
-    elif sensor == TDS: 
+    elif sensor == "TDS": 
         ads.gain = 1
         chan = AnalogIn(ads, ADS.P0)
-    elif sensor == turbidity: 
+    elif sensor == "turbidity": 
         ads.gain = 1
         chan = AnalogIn(ads, ADS.P1)
-    elif sensor == DO:
+    elif sensor == "DO":
         ads.gain = 1
         chan = AnalogIn(ads, ADS.P2)
     else: 
@@ -79,9 +79,9 @@ while True:
     time.sleep(15 / 60)
 
     TDS_channel = switch_sensor("TDS")
-    EC_value = read_EC(TDS_channel.voltage)
+    EC_value = read_EC(TDS_channel.voltage, temp)
     log_data("EC", EC_value)
-    TDS_value = read_TDS(TDS_channel.voltage)
+    TDS_value = read_tds(EC_value)
     log_data("TDS", TDS_value)
     time.sleep(15 / 60)
 
@@ -90,7 +90,7 @@ while True:
     log_data("turbidity", turbidity_value)
     time.sleep(15 / 60)
     
-    DO_channel = switch_sensor("DO")
-    DO_value = read_DO(DO_channel.voltage)
-    log_data("DO", DO_value)
-    time.sleep(15 / 60)
+#    DO_channel = switch_sensor("DO")
+#    DO_value = read_DO(DO_channel.voltage)
+#    log_data("DO", DO_value)
+#    time.sleep(15 / 60)
