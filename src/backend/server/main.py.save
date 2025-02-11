@@ -29,6 +29,7 @@ def switch_sensor(sensor):
     elif sensor == "DO":
         ads.gain = 1
         chan = AnalogIn(ads, ADS.P2)
+
     else: 
         raise ValueError("Invalid sensor type passed to switch_sensor")
     
@@ -62,8 +63,6 @@ def log_data(sensor, value):
         sensor_data["DO"] = value
     elif sensor == "turbidity":
         sensor_data["turbidity"] = value
-    elif sensor == "EC":
-        sensor_data["EC"] = value
     
     log.append(sensor_data)
     
