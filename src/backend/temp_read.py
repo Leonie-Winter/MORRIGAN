@@ -3,21 +3,25 @@
 import os
 import glob
 import time
- 
+
+# init kernel modules for w1
 os.system('modprobe w1-gpio')
 os.system('modprobe w1-therm')
  
+# set directory that the temp sensor uses
 base_dir = '/sys/bus/w1/devices/'
 device_folder = glob.glob(base_dir + '28*')[0]
 device_file = device_folder + '/w1_slave'
 
 def read_temp_raw():
+    # read the raw txt file the temp sensor writes to
     f = open(device_file, 'r')
     lines = f.readlines()
     f.close()
     return lines
 
 def read_temp():
+    # cut the verification line and convert raw reading to °C
     lines = read_temp_raw()
     while lines[0].strip()[-3:] != 'YES':
         time.sleep(0.2)
