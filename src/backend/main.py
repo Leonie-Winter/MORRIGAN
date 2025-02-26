@@ -40,7 +40,7 @@ def init_db():
 
 init_db()  # init database
 
-# Define sensor switching function
+# Define sensor switching function 
 def switch_sensor(sensor):
     return AnalogIn(ads, {"ph": ADS.P3, "TDS": ADS.P0, "turbidity": ADS.P1, "DO": ADS.P2}.get(sensor, ADS.P3))
 
