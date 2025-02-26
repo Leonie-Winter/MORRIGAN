@@ -1,3 +1,4 @@
+# reference voltage is 2.3V
 """
 voltages (in V) measured at each EC (in µ/cm) are:
     0,066625 V = 48   µ/cm

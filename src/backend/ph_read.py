@@ -21,7 +21,6 @@ def read_PH(voltage):
 		param voltage = voltage in mV
 		return pH_value
         '''
-		
 		global acidV
 		global neutralV
 		slope     = (7.02-4.0)/((neutralV-1500.0)/3.0 - (acidV-1500.0)/3.0) 
@@ -31,4 +30,4 @@ def read_PH(voltage):
 			print ("read pH above 14 or below 0 \n","it is currently:",pH_value)
 			return None
 		else:
-			return round(pH_value,4)
+			return round(pH_value,2)

@@ -4,18 +4,17 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <link rel="stylesheet" href="styles.css" />
-    <meta name="author" content="Max Mendgen">
-    <meta name="version" content="0.1">
-    <title>Displaying JSON data in Chart.js</title>
+    <meta name="author" content="Leonie Riedel, Max Mendgen">
+    <meta name="version" content="0.2">
+    <title>Displaying Data from MORRIGAN</title>
   </head>
   <body>
-    <h1>Click the button to run the script</h1>
+    <h1>Click the button to start Measurements</h1>
     <button onclick="runScript()">Run Script</button>
     <p id="output"></p>
-
     <script>
         function runScript() {
-            fetch('http://localhost:5000/run-script') // Ensure correct backend URL
+            fetch('http://localhost:5000/run-script') // point to wherever the flask backend is running
                 .then(response => response.json())
                 .then(data => {
                     document.getElementById("output").innerText = data.output || data.error;
@@ -36,9 +35,10 @@
       <canvas id="chartTDS"></canvas>
       <canvas id="chartDO"></canvas>
       <canvas id="chartTurb"></canvas>
+      <canvas id="chartEC"></canvas>
     </div>
     
-    <!-- JavaScripts -->
+    <!-- JavaScript -->
     <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
     <script src="script.js"></script>
     
