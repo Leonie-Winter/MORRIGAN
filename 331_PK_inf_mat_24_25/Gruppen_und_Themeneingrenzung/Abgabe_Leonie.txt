@@ -1,0 +1,11 @@
+Bevorzugte Gruppenmitglieder: Michelle
+
+ 
+
+Themen: 
+
+Bioinformatik, 
+
+Embedded Programming on Microcontrollers/SBCs (besonders RISC-V basierte microcontroller),
+
+.Net Frameworks
