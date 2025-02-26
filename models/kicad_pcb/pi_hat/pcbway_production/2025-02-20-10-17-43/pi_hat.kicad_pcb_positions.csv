@@ -1,0 +1,7 @@
+﻿pos_x,pos_y,rotation,side,designator,mpn,pack,footprint,value,mount_type
+30.0,39.5,0.0,top,A1,,,analog_Pins,~,tht
+39.0,39.58,0.0,top,A2,,,analog_Pins,~,tht
+46.5,39.58,0.0,top,A3,,,analog_Pins,~,tht
+55.0,39.58,0.0,top,A4,,,analog_Pins,~,tht
+8.37,51.23,-90.0,bottom,J1,,,PinSocket_2x20_P2.54mm_Vertical,GPIO,tht
+7.0,29.7,0.0,top,U2,,,ADS1115,~,tht

@@ -1,0 +1,4 @@
+﻿Designator,Quantity,Value,Footprint,Package,MPN,DNP,Mount_Type
+"A1, A2, A3, A4",4,~,analog_Pins,,,,tht
+J1,1,GPIO,PinSocket_2x20_P2.54mm_Vertical,,,,tht
+U2,1,~,ADS1115,,,,tht
