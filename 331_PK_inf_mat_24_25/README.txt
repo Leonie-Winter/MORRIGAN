@@ -1,1 +1,0 @@
-Teacher: Gerrit Herrman
