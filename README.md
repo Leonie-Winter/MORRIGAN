@@ -34,4 +34,5 @@ If you are interested in thins such as previous competitions,the costs, and how 
 ---
 
 **This project was funded by the Erasmus+ program of the European Union.**
+Funded by the European Union. Views and opinions expressed are however those of the author(s) only and do not necessarily reflect those of the European Union or the European Education and Culture Executive Agency (EACEA). Neither the European Union nor EACEA can be held responsible for them.
 ![co-funded by the european union logo](EN_Co-fundedbytheEU_RGB_POS.png)
