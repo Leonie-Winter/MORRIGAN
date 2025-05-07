@@ -15,7 +15,7 @@ def serve_index():
 @app.route('/run-script', methods=['GET'])
 def run_script():
     try:
-        result = subprocess.run(["python", SCRIPT_PATH], capture_output=True, text=True, shell=True)
+        result = subprocess.run(f"python3 {SCRIPT_PATH}", capture_output=True, text=True, shell=True)
         return jsonify({"output": result.stdout.strip(), "error": result.stderr.strip()})
     except Exception as e:
         return jsonify({"error": str(e)}), 500
