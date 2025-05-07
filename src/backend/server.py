@@ -4,8 +4,7 @@ import subprocess
 import os
 
 app = Flask(__name__, static_folder="static")
-CORS(app)
-
+CORS(app, resources={r"/run-script": {"origins": "*"}})
 
 SCRIPT_PATH = os.path.join(os.path.dirname(__file__), "main.py")
 
