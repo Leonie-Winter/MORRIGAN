@@ -14,8 +14,12 @@
     <p id="output"></p>
     <script>
         function runScript() {
-            fetch('http://localhost:5000/run-script') // point to wherever the flask backend is running
-                .then(response => response.json())
+          const backendPort = 5000;
+          const backendHost = window.location.hostname;
+          const url = `http://${backendHost}:${backendPort}/run-script`;
+
+          fetch(url)               
+            .then(response => response.json())
                 .then(data => {
                     document.getElementById("output").innerText = data.output || data.error;
                 })
